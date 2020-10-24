@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm Rima Nurkholifah, a technology enthusiast 🚀 from Indonesia. Currently, I am studying as a third-year student at the School of Vocational Studies, majoring in Informatics Management at the IPB University. Beside's programming, I enjoy eating food and traveling.
+I'm Rima Nurkholifah, a technology enthusiast 🚀 from Indonesia. Currently, I am studying as a third-year student at the School of Vocational Studies, majoring in Informatics Management at the IPB University. Beside's programming, I enjoy eating food and traveling.
 
 **Talking about Personal Stuffs:**
 
