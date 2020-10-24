@@ -9,6 +9,7 @@ Hi, I'm Rima Nurkholifah, a technology enthusiast 🚀 from Indonesia. Currently
 - 💬 Ask me about anything, I am happy to help;
 
 **📫 How to reach me:**
+
 <a href="https://www.instagram.com/rimanurfah/">
   <img align="left" alt="petanidata's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
