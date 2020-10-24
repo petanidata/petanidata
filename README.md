@@ -5,7 +5,6 @@
 <a href="https://www.linkedin.com/in/rimanurkholifah/">
   <img align="left" alt="petanidata's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 <br />
 
 Hi, I'm Rima Nurkholifah, a technology enthusiast 🚀 from Indonesia. Currently, I am studying as a third-year student at the School of Vocational Studies, majoring in Informatics Management at the IPB University. Beside's programming, I enjoy eating food and traveling.
